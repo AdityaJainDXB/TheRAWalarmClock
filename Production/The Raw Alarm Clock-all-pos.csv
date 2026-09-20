@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BZ1","Buzzer","Buzzer_12x9.5RM7.6",184.000000,-72.200000,-90.000000,bottom
+"J1","Conn_01x08_Pin","PinSocket_1x08_P2.54mm_Vertical",137.700000,-79.000000,90.000000,bottom
+"U1","XIAO-ESP32-C3-SMD","XIAO-ESP32-C3-DIP",155.500000,-72.818500,90.000000,bottom
+"H1","MountingHole","MountingHole_3.2mm_M3",106.000000,-65.000000,0.000000,top
+"H2","MountingHole","MountingHole_3.2mm_M3",194.500000,-64.000000,0.000000,top
+"H3","MountingHole","MountingHole_3.2mm_M3",106.000000,-105.000000,0.000000,top
+"H4","MountingHole","MountingHole_3.2mm_M3",195.000000,-105.500000,0.000000,top
+"SW1","SW_Push","SW_Cherry_MX_1.00u_PCB",127.540000,-87.960000,0.000000,top
+"SW2","SW_Push","SW_Cherry_MX_1.00u_PCB",146.540000,-87.920000,0.000000,top
+"SW3","SW_Push","SW_Cherry_MX_1.00u_PCB",165.540000,-87.920000,0.000000,top
+"SW4","SW_Push","SW_Cherry_MX_1.00u_PCB",184.460000,-87.920000,0.000000,top
