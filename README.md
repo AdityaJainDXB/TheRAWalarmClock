@@ -57,7 +57,7 @@ Time is tracked in software (no RTC chip on this board), so it resets to 00:00 o
 
 ## Build Instructions
 
-1. Fabricate the PCB from the KiCad files (see `/hardware`)/ Gerber files in `/production'
+1. Fabricate the PCB from the KiCad files (see `/PCB`)/ Gerber files in Production Folder
 2. Solder components: XIAO-ESP32-C3, ST7789 display, buzzer, 4x push buttons
 3. 3D print `bottom_shell.stl`, `top_lid.stl`, and `rear_wing.stl`
 4. Flash `RawAlarmClock.ino` via Arduino IDE
